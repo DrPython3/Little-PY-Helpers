@@ -9,11 +9,12 @@ Part of "Little PY-Helpers" @ GitHub.com
 '''
 
 __author__ = 'DrPython3'
-__date__ = '2021-09-xx'
+__date__ = '2021-09-19'
 __version__ = '1.0'
 __contact__ = 'https://github.com/DrPython3'
 
-# [FUNCTION SAMPLE]:
+# [FUNCTION]:
+
 def rm_duplicates(targetfile):
     '''
     Checks each line in a textfile whether its unique or not.
@@ -44,6 +45,7 @@ def rm_duplicates(targetfile):
         print('Sorry!\nAn error occurred. Check file and try again.')
     return None
 
-# [TEST THE FUNCTION]:
+# [SAMPLE USAGE]:
+
 testfile = input('Testfile, e.g. testfile.txt: ')
 rm_duplicates(str(testfile))
