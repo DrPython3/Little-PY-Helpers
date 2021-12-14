@@ -1,7 +1,6 @@
 ﻿# Little PY-Helpers
 
-Various Python 3.x scripts for different purposes, e.g. performing common tasks or providing frequently needed functions in other projects and so on.<br>
-Updated just from time to time. Free to use for everyone. But please, do not forget to refer to this repository when using any code provided here.
+Various Python 3.x scripts for different purposes, e.g. performing common tasks or providing frequently needed functions in other projects and so on. Updated just from time to time. Free to use for everyone. But please, do not forget to refer to this repository when using any code provided here.
 
 ## Available Content
 
